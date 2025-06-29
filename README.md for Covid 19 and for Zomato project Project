@@ -1,0 +1,95 @@
+# 🦠 COVID-19 Global Data Analysis
+
+This project analyzes global COVID-19 data to understand the pandemic’s progression, impact across countries, mortality trends, and recovery patterns using Python and visual analytics.
+
+---
+
+## 📌 Objectives
+
+- Track daily and total confirmed, recovered, and death cases  
+- Compare country-wise COVID-19 statistics  
+- Visualize global and regional trends in the pandemic  
+- Generate insights to support public health and policy decisions
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Jupyter Notebook
+
+---
+
+## 📊 Key Insights
+
+- India, USA, and Brazil were among the most affected countries  
+- Recovery rates improved significantly after initial waves  
+- Death rates varied sharply across continents and timeframes  
+- Visualizations reveal patterns in daily case spikes and flattening curves
+
+---
+
+## 📂 How to Run
+
+1. Clone this repository or download the files  
+2. Open `Covid_19_project.ipynb` in Jupyter Notebook or Google Colab  
+3. Run all cells to explore the complete analysis and graphs
+
+---
+
+## 📬 Contact
+
+**Rohit Panjrath**  
+
+
+
+
+
+# 🥘 Zomato Restaurant Data Analysis
+
+This project performs exploratory data analysis (EDA) on Zomato’s restaurant data to uncover patterns in cuisine popularity, service offerings, pricing, and ratings across Indian cities.
+
+---
+
+## 📌 Objectives
+
+- Explore city-wise restaurant distribution
+- Identify the most popular cuisines and cost patterns
+- Understand the impact of services like online ordering and table booking on ratings
+- Generate actionable business insights through visualization
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Jupyter Notebook
+
+---
+
+## 📊 Key Insights
+
+- Bangalore and Delhi NCR have the highest number of listed restaurants  
+- North Indian and Chinese cuisines dominate in popularity  
+- Online ordering and table booking often correlate with higher ratings  
+- Cost for two people varies significantly by city and restaurant type
+
+---
+
+## 📂 How to Run
+
+1. Clone this repository or download the files  
+2. Open `Zomato_Project_full.ipynb` in Jupyter Notebook or Google Colab  
+3. Run all cells in order for data cleaning, analysis, and visualization
+
+---
+
+## 📬 Contact
+
+**Rohit Panjrath**  
+
+

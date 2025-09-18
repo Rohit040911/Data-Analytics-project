@@ -1,0 +1,42 @@
+# Airbnb Market Analysis Dashboard
+
+## Project Overview
+The Airbnb Market Analysis Dashboard is an interactive Power BI project analyzing Airbnb data in New York City. It extracts valuable insights on pricing, availability, and market dynamics to help hosts, investors, travelers, and policymakers make informed decisions.
+
+## Problem Statement
+The NYC Airbnb market is complex, with thousands of listings across various neighborhoods. Hosts face challenges in pricing competitively; investors need clarity on profitable areas; policymakers monitor housing impacts; travelers seek optimal stays. This project tackles these issues by providing KPIs, visual analytics, and comparative studies.
+
+## Dashboard Features
+- **Summary Metrics:** Total listings, average and median prices, minimum and maximum prices, occupancy rate, and review scores.
+- **Pricing Analysis:** Trends over time, price distribution by room type, price-demand segments, and room price vs availability comparisons.
+- **Neighborhood Insights:** Average price and review scores by neighborhood, listings count by price bins, and heatmaps of pricing across locations.
+- **Host and Room Analysis:** Host distributions, room type segmentation, and correlation between price and availability.
+- **Interactivity:** Filters for neighborhood, price, and room type enable precise exploration.
+
+## SQL Queries Included
+- Total listings and unique hosts count.
+- Room type share and pricing in neighborhoods.
+- Average price by room type.
+- Top neighborhoods by listing counts.
+- Pricing and review scores by neighborhood.
+- Availability analysis by room type and location.
+- Comparison of listing price versus reported averages.
+- Correlation between price and availability per host.
+
+## Key Insights
+1. Entire homes tend to have the highest prices, while private and shared rooms are more affordable.
+2. Listings and pricing vary widely with neighborhoods, with Manhattan and Brooklyn being the highest priced.
+3. Price and availability show a strong negative correlation: higher price listings are generally booked more frequently.
+4. The market is diverse, competitive, and presents opportunities for both high and budget segments.
+5. Clear price discrepancies exist between listing data and reported averages, indicating potential data or market dynamics.
+
+## Tools & Technologies
+- Power BI for visualization.
+- SQL for data retrieval and aggregation.
+- Inside Airbnb dataset (cleaned and pre-processed).
+
+## Conclusion
+This dashboard gives a comprehensive understanding of the Airbnb market in NYC, supporting strategic decisions for all stakeholders. It highlights pricing patterns, neighborhood distinctions, and booking behavior while promoting data-driven approaches to optimize listings and customer experience.
+
+---
+
